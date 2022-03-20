@@ -19,3 +19,12 @@ g++ http_proxy.cpp -o p.o
 ```
 - Enter the word to be replaced and the replacement
 - Now you can browse any HTTP website in your browser and the proxy should work in doing the word replacement
+
+
+# Some HTTP Websites that you can try testing the proxy on
+
+- http://info.cern.ch/
+- http://milk.com/
+- http://itcorp.com/
+  
+
